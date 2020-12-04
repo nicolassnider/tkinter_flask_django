@@ -1,0 +1,5 @@
+para crear nuevo proyecto pipenv run django-admin startproject web_empresa
+para crear aplicación pipenv run python .\manage.py startapp Services
+para correr servicor  pipenv run python .\manage.py runserver
+
+agregar en INSTALLED_APPS en settings.py.
