@@ -1,0 +1,26 @@
+Ejercicio 1
+
+Localiza el error en el siguiente bloque de código. Crea una excepción para evitar que el programa se bloquee y además explica en un mensaje al usuario la causa y/o solución:
+
+resultado = 10/0
+
+Ejercicio 2
+
+Localiza el error en el siguiente bloque de código. Crea una excepción para evitar que el programa se bloquee y además explica en un mensaje al usuario la causa y/o solución:
+
+lista = [1, 2, 3, 4, 5]
+lista[10]
+Ejercicio 3
+
+Localiza el error en el siguiente bloque de código. Crea una excepción para evitar que el programa se bloquee y además explica en un mensaje al usuario la causa y/o solución:
+
+colores = { 'rojo':'red', 'verde':'green', 'negro':'black' }
+
+colores['blanco']
+
+Ejercicio 4
+
+Localiza el error en el siguiente bloque de código. Crea una excepción para evitar que el programa se bloquee y además explica en un mensaje al usuario la causa y/o solución:
+
+resultado = 15 + "20"
+
