@@ -1,5 +1,12 @@
 para crear nuevo proyecto pipenv run django-admin startproject web_empresa
 para crear aplicación pipenv run python .\manage.py startapp Services
-para correr servicor  pipenv run python .\manage.py runserver
+para correr servidor  pipenv run python .\manage.py runserver
 
 agregar en INSTALLED_APPS en settings.py.
+
+definir clases en models.py de la aplicación 
+
+para crear migrations  pipenv run python .\manage.py makemigrations
+para correr migrations  pipenv run python .\manage.py migrate
+
+para crear superusuario pipenv run python .\manage.py createsuperuser (soulit / 2020)
